@@ -25,7 +25,7 @@ The Nobel Prize dataset is rich but raw and unstructured. The main objectives we
 | Storage              | Azure Data Lake Storage Gen2    |
 | Processing           | Azure Databricks (PySpark)      |
 | Format               | Delta Lake                      |
-| Modeling             | 3NF → Star Schema (Gold Layer)  |
+| Modeling             | Star Schema (Gold Layer)  |
 | Visualization        | Power BI Desktop                |
 | Hashing              | SHA2 for surrogate keys         |
 
